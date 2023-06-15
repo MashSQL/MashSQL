@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MashSQL
+- 👋 Hi, I’m @Mashao
 - 👀 I’m interested in NBA, SQL, Data Science
 - 🌱 I’m currently learning Honours Science In computer Science
 - 💞️ I’m looking to collaborate on ...
